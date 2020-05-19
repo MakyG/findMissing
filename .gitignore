@@ -1,0 +1,16 @@
+
+*.db
+*.opendb
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.log
+*.idb
+*.lastbuildstate
+*.tlog
+*.obj
+*.filters
+*.user
+*.vcxproj
+.gitattributes
